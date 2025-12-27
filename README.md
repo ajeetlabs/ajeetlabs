@@ -1,3 +1,7 @@
-👋 Hi, I’m Ajeet kumar.
-Tweak and make things better with the code and mind.
+### Ajeetlabs
+Ajeet Kumar
+Software architect
+Email: ajeetlabs@gmail.com
+website: ajeetlabs.github.com
+
 
