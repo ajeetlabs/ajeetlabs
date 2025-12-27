@@ -16,6 +16,8 @@
 
 * **Hamara Bokaro**  
   *News & Media Website*  
+  Tech: WordPress, PHP, MySQL, Nginx  
+  Purpose: Regional digital news publishing  
   🔹 Regional news platform with custom content management  
   🔗 [https://hamarabokaro.in/](https://hamarabokaro.in/)  
 
