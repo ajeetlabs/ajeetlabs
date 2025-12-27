@@ -17,4 +17,9 @@
   🔹 Regional news platform with custom content management  
   🔗 [https://hamarabokaro.in/](https://hamarabokaro.in/)  
 
+* **S5Indianews**  
+  *News & Media Website*  
+  🔹 News platform with custom content management
+  🔗 [https://hamarabokaro.in/](https://hamarabokaro.in/)  
+   
 
