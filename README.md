@@ -2,6 +2,6 @@
 Ajeet Kumar  
 Software architect  
 Email: ajeetlabs@gmail.com  
-website: ajeetlabs.github.com  
+portfolio: [ajeetlabs website](https://ajeetlabs.github.io)
 
 
