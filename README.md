@@ -1,8 +1,12 @@
-### Ajeetlabs  
-Ajeet Kumar  
-Software architect  
-Email: ajeetlabs@gmail.com  
-portfolio: - [ghostgossip - A Telegram bot to chat with strangers without sharing any details ](https://ghostgossip.sociohub.in/)
-           - [News website](https://hamarabokaro.in/)
+## **Ajeetlabs**
+**Ajeet Kumar**
+**Software Architect**
+**Email:** [ajeetlabs@gamil.com](mailto:ajeetlabs@gmail.com)
+
+### **Portfolio**
+* **GhostGossip**
+  *Anonymous Telegram chat bot*
+  Chat with strangers without sharing any personal details
+  [https://ghostgossip.sociohub.in](https://ghostgossip.sociohub.in/)
 
 
