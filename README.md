@@ -8,7 +8,9 @@
 ### **Portfolio**
 
 * **GhostGossip**  
-  *Anonymous Telegram chat bot*  
+  *Anonymous Telegram chat bot*
+  Tech: Node.js, Telegram Bot API, WebSockets  
+  Purpose: Privacy-first anonymous chatting  
   🔹 Chat with strangers without sharing any personal details  
   🔗 [https://ghostgossip.sociohub.in/](https://ghostgossip.sociohub.in/)
 
