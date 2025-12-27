@@ -20,7 +20,7 @@
 * **S5Indianews**  
   *News & Media Website*  
   🔹 News platform with custom content management  
-  🔗 [https://hamarabokaro.in/](https://s5indianews.com/)
+  🔗 [https://s5indianews.com](https://s5indianews.com/)
   
    
 
