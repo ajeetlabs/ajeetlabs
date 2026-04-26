@@ -26,9 +26,9 @@
   🔹 News platform with custom content management  
   🔗 [https://s5indianews.com](https://s5indianews.com/)
 
-* **Glowing Start Furniture **
-  *Portfolio website*
-  Glowing Star Furniture provides structured dismantling and responsible scrap management solutions
+* **Glowing Start Furniture **  
+  *Portfolio website*  
+  Glowing Star Furniture provides structured dismantling and responsible scrap management solutions  
   [https://www.gsfscrap.com/](https://www.gsfscrap.com/)
    
 
